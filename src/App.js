@@ -16,7 +16,7 @@ function App() {
           rel="noopener noreferrer"
         >
           <div></div>
-          Learn React
+          Git clone test
 
         </a>
       </header>
